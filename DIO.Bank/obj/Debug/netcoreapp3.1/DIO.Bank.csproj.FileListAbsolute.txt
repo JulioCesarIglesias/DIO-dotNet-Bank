@@ -1,0 +1,26 @@
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\projetos\dioaulapratica\Projeto Banco com .Net\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\JÚLIO CÉSAR\Projetos\DIO-dotNet-Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
